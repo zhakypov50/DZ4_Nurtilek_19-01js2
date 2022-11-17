@@ -1,0 +1,21 @@
+.wrapper {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+}
+
+button {
+    background-color: #fcdb0a;
+    margin-left: 630px;
+    margin-top: 50px;
+    width: 100px;
+    height: 50px;
+}
+
